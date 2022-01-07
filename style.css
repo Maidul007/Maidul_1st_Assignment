@@ -1,0 +1,150 @@
+body{
+  font-family: 'Playfair Display', serif;
+}
+h1{
+  font-size: 50px;
+}
+
+#build{
+  text-align: center  ;
+}
+#my-mission{
+  text-align: center;
+}
+
+.fexible-container{
+  display: flex;
+  margin-bottom: 150px;
+}
+.half-width{
+  width: 50%;
+  padding-left: 7%;
+  padding-right: 7%;
+}
+.half-width img{
+  width: 80%;
+}
+.half02-width img{
+  width: 90%;
+  
+  border-radius: 5%;
+  margin-top: 60px;
+  
+  
+}
+.half01-width img{
+  width: 90%;
+  margin-left: 7%;
+  border-radius: 5%;
+  margin-top: 60px;
+  
+  
+}
+.link-button{
+  text-decoration: none;
+  background-image: linear-gradient(red, tomato);
+  padding: 10px 40px;
+  border-radius: 5px;
+  color: whitesmoke;
+}
+.develop-limitless{
+  background-image: url(images/shapes/shape-9.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 20%;
+}
+
+.global-community{
+  background-image: url(images/shapes/shape-8.png);
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: 20%;
+}
+.stay-safe{
+  background-image: url(images/shapes/shape-6.png);
+  background-position:top bottom left;
+  background-repeat: no-repeat;
+  background-size: 20%;
+  margin-left: 10px;
+}
+.orange-color{
+  color: orange;
+}
+footer{
+  background-color: black;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+  text-align: center;
+}
+
+
+#white{
+  color: white;
+}
+#tomato{
+  color: red;
+}
+#gray{
+  color: gray;
+
+}
+#row-one{
+  background-color: rgb(223, 222, 222);
+  border-radius: 20px;
+  margin: 10px 10px 10px 40px;
+}
+#row-two{
+  background-color: rgb(241, 183, 212);
+  border-radius: 20px;
+  margin: 10px 10px 10px 10px;
+}
+#row-three{
+  background-color: rgb(241, 235, 180);
+  border-radius: 20px;
+  margin: 10px 40px 10px 10px;
+}
+#image{
+  border-radius: 10px;
+}
+
+body {font-family: 'Playfair Display', serif;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #3c7b86;
+  padding: 20px;
+  width: 50%;
+ 
+  margin: 0 auto;
+  
+} 
+
+.Contact01{
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
